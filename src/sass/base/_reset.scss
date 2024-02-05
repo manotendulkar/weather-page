@@ -1,0 +1,16 @@
+@use "../attributes/" as *;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: $font-kanit;
+}
+
+body {
+  color: $textColor-white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #101010;
+}
