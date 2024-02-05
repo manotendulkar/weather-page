@@ -1,0 +1,33 @@
+Weather descriptions can vary based on the source and the specific terminology used. However, some common types of weather descriptions include:
+
+Clear Sky: The sky is free from clouds, and the weather is generally sunny.
+
+Partly Cloudy: The sky is partially covered with clouds, but there are still clear areas.
+
+Cloudy: The sky is covered with clouds, and sunlight may be limited.
+
+Overcast: The sky is completely covered with clouds, and there is no direct sunlight.
+
+Rain: Precipitation in the form of raindrops.
+
+Drizzle: Light rain, often with fine droplets.
+
+Showers: Brief periods of rain.
+
+Thunderstorm: Heavy rain accompanied by thunder and lightning.
+
+Snow: Precipitation in the form of snowflakes.
+
+Sleet: Frozen raindrops or partially melted snowflakes.
+
+Hail: Pellets of ice that fall during a thunderstorm.
+
+Fog: Dense water vapor near the ground, reducing visibility.
+
+Mist: Fine water droplets in the air, reducing visibility but not as dense as fog.
+
+Wind: Strong air movement.
+
+Tornado: A violent windstorm characterized by a twisting, funnel-shaped cloud.
+
+Hurricane / Typhoon / Cyclone: A tropical storm with strong winds and heavy rain.
