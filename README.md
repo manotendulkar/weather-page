@@ -4,6 +4,11 @@ Weather App is a weather search page for a country, offering information about i
 <p>
 This application utilizes the weatherbit.io API to fetch real-time data.</p>
 
+## Build with:
+* React
+* SCSS
+* weatherbit.io API
+
 ### Screenshot of the project:
 <hr/>
 
