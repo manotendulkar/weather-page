@@ -11,4 +11,5 @@ This application utilizes the weatherbit.io API to fetch real-time data.</p>
 
 ### Screenshot of the project:
 <hr/>
+
 ![weather-app-screenshot](https://github.com/manotendulkar/weather-page/assets/99658669/4e08ce05-35e6-4f05-bc55-fbb11b8cae49)
