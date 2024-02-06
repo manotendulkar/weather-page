@@ -6,6 +6,7 @@ This application utilizes the weatherbit.io API to fetch real-time data.</p>
 
 ### Build with:
 <hr/>
+
 * React
 * SCSS
 * weatherbit.io API
